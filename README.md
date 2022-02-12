@@ -10,7 +10,7 @@ To understand the differences between the original census counts and the ammende
 ## Project notes
 ### Notebooks
 
-* [census_adjusted_compared.ipynb](census-peculiarities/analysis/census_adjusted_compared.ipynb) looks at the U.S. Census 2020 PL 94-171 data summary files for states at the block level compared to the states' ammended population files
+* [census_adjusted_compared.ipynb](analysis/census_adjusted_compared.ipynb) looks at the U.S. Census 2020 PL 94-171 data summary files for states at the block level compared to the states' ammended population files
 
 ### Data sources
 
