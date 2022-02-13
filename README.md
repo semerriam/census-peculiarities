@@ -10,7 +10,8 @@ To understand the differences between the original census counts and the ammende
 ## Project notes
 ### Notebooks
 
-* [census_adjusted_compared.ipynb](analysis/census_adjusted_compared.ipynb) looks at the U.S. Census 2020 PL 94-171 data summary files for states at the block level compared to the states' ammended population files
+* [census_chaos.ipynb](analysis/census_chaos.ipynb) looks at the U.S. Census 2020 PL 94-171 data summary files for states at the block level compared to the states' ammended population files
+* [NJ-adjusted-census-merged.ipynb](analysis/NJ-adjusted-census-merged.ipynb) merges New Jersey's 21 adjusted datasets for each county into one dataset for importing into the census_chaos notebook. 
 
 ### Data sources
 
