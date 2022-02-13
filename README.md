@@ -15,7 +15,7 @@ To understand the differences between the original census counts and the ammende
 
 ### Data sources
 
-* [Redistricting Data Hub](https://redistrictingdatahub.org/): Many state census and ammended census files were imported with the hub's API
+* [Redistricting Data Hub](https://redistrictingdatahub.org/): Many state census and ammended census files were downloaded with the hub's API
 * Individual state redistricting sites
 
 ## Technical
