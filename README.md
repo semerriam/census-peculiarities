@@ -1,43 +1,27 @@
-# [census-peculiarities]
+# Census Peculiarities (In-Progress)
 
-TK: short project description
+Data publication and documentation for a project on states' reallocation of prisoner populations in the U.S. 2020 Census. 
 
-*Created by Susan Merriam (<>)*
-
-*Reporter: Susan Merriam (<>)*
 
 ## Project goal
 
-*TK: Briefly describe this project*
+To understand the differences between the original census counts and the ammended counts for states that reallocate prisoner residences to addresses before incarceration. 
 
 ## Project notes
+### Notebooks
 
-### Staff involved
-
-*TK: List people & contact info for people involved in the project*
-
-[Responsibility matrix](url-to-responsibility matrix)
-
-[HIRUFF Q&A](url-to-hiruff)
+* [census_adjusted_compared.ipynb](analysis/census_adjusted_compared.ipynb) looks at the U.S. Census 2020 PL 94-171 data summary files for states at the block level compared to the states' ammended population files
 
 ### Data sources
 
-*TK: List access info & contact info for data sources used in the project*
+* [Redistricting Data Hub](https://redistrictingdatahub.org/): Many state census and ammended census files were imported with the hub's API
+* Individual state redistricting sites
 
 ## Technical
 
-*TK: Instructions on how to bootstrap project, run ETL processes, etc.*
+*TBD*
 
-An outline of the basic project structure is available at https://github.com/associatedpress/cookiecutter-generic-project
-
-### Project setup instructions
-
-After cloning the git repo:
-
-`datakit data pull` to retrieve the data files.
-
-*TK: For more complex or unusual projects additional directions follow*
 
 ## Data notes
 
-*Add important caveats, limitations, and source contact info here.*
+*TBD*
