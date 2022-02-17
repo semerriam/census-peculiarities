@@ -1,0 +1,9 @@
+Facility,Facility Name,Block,Adjacent Block,Inmates,In-state-moved,in-state-remaining,out-of-state,Census Count,Diff
+BWCI,Baylor Women's Correctional Institution,100030152005020,,235,204,15,16,305,70
+HDP,Hazel D. Plant Women's Treatment Facility,100030152005020,,72,10,62,0,0,-72
+HRYCI,Howard R. Young Correctional Institution,100030030021024,,1281,1096,86,99,1281,0
+JTVCC,James T. Vaughn Correctional Center,100030169041048,,1654,1277,234,143,1653,-1
+MCCC,Morris Community Corrections Center,100010414001011,,99,82,14,3,111,12
+PCCC,Plummer Community Corrections Center,100030006011011,,147,49,98,0,151,4
+SCI,Sussex Correctional Institution,100050505051048,,1037,868,89,80,1024,-13
+SCCC,Sussex Community Corrections Center (combined blocks),100050505051053,100050505051051,223,175,39,9,276,53
