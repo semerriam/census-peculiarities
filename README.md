@@ -5,7 +5,7 @@ Data publication and documentation for a project on states' reallocation of pris
 
 ## Project goal
 
-To understand the differences between the original census counts and the ammended counts for states that reallocate prisoner residences to addresses before incarceration. 
+To understand the differences between the original census counts, states' department of corrections counts, and the ammended counts for states that reallocate prisoner residences to addresses before incarceration.  
 
 ## Project notes
 ### Notebooks
