@@ -7,7 +7,8 @@ Data publication and documentation for a project on states' reallocation of pris
 
 To understand the differences between the original census counts, states' department of corrections counts, and the ammended counts for states that reallocate prisoner residences to addresses before incarceration.  
 
-Guiding Questions: Why are there gaps between the U.S. Census and DOC population counts for incarcerated facilities? How pervasive is this issue?
+Guiding Questions: Why are there gaps between the U.S. Census and DOC population counts for incarcerated facilities? 
+How pervasive is this issue?
 
 Questions to Answer:
 * How often do these gaps occur?
