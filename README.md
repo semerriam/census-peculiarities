@@ -1,5 +1,4 @@
-# Census Peculiarities (In-Progress)
-
+# Census Peculiarities 
 Data publication and documentation for a project on states' reallocation of prisoner populations in the U.S. 2020 Census. 
 
 
